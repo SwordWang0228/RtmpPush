@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:9:22-68
+uses-feature#android.hardware.camera
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:12:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:14:5-97
+	android:name
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:17:5-95
+	android:name
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:18:5-92
+	android:name
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:19:5-95
+	android:name
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:20:5-92
+	android:name
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.INTERNET
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:21:5-83
+	android:name
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:22:5-84
+	android:name
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:22:22-65
+application
+ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:24:5-28:43
+	android:label
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:28:9-40
+uses-sdk
+INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		ADDED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		INJECTED from E:\00wxl\code\as\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
